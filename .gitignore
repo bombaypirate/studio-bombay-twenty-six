@@ -1,0 +1,70 @@
+# =============================================
+# Studio Bombay Twenty Six — .gitignore
+# =============================================
+
+# -------
+# OS files
+# -------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# -------
+# Editor & IDE
+# -------
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# -------
+# Node / npm (if build tools are added later)
+# -------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# -------
+# Build output
+# -------
+/build/
+/dist/
+*.zip
+*.tar.gz
+
+# -------
+# WordPress core (safety net if theme lives inside a full WP install)
+# -------
+wp-admin/
+wp-includes/
+wp-config.php
+wp-content/uploads/
+wp-content/plugins/
+wp-content/cache/
+
+# -------
+# Environment & secrets
+# -------
+.env
+.env.local
+.env.*.local
+*.log
+
+# -------
+# Composer
+# -------
+/vendor/
+composer.lock
+
+# -------
+# Theme-specific: build artefacts from Create Block Theme
+# -------
+artefact.xml
