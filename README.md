@@ -10,9 +10,9 @@ Built by [Aditya Kane](https://bombaypirate.com) for his own blog. Live at **[bo
 
 ## About
 
-**Studio Bombay Twenty Six** is a Full Site Editing (FSE) WordPress block theme designed for personal blogs and independent publications. It combines editorial typographic sensibility with a handcrafted, print-inspired aesthetic — ink borders, sepia tones, saffron accents, and a walking elephant that tracks your scroll progress.
+**Studio Bombay Twenty Six** is a Full Site Editing (FSE) WordPress block theme designed for personal blogs and independent publications. It combines editorial typographic sensibility with a handcrafted, print-inspired aesthetic, ink borders, sepia tones, saffron or orange accents, and a walking elephant that tracks your scroll progress.
 
-The theme is opinionated, specific, and personal. It is not a general-purpose starter. It is the theme for one blog — and it wears that openly.
+The theme is opinionated, specific, and personal. It is not a general-purpose starter theme.
 
 > *Studio Bombay Twenty Six — calm, quirky, joyful.*
 
@@ -175,4 +175,4 @@ the Free Software Foundation, either version 2 of the License, or
 
 ---
 
-*Made in Bombay. Runs on WordPress. Powered by curiosity.*
+* Bombay. WordPress. Elephants *
