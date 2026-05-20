@@ -153,8 +153,7 @@ This theme was prototyped using [Create Block Theme](https://wordpress.org/plugi
 ## Credits
 
 - Built by **Aditya Kane** — [bombaypirate.com](https://bombaypirate.com) · [@bombaypirate](https://github.com/bombaypirate)
-- Co-created with **[Telex by Automattic](https://telex.automattic.ai/)**
-- Exported via **[Create Block Theme](https://wordpress.org/plugins/create-block-theme/)**
+- Tools **[Telex by Automattic](https://telex.automattic.ai/)** | **[Create Block Theme](https://wordpress.org/plugins/create-block-theme/)**
 - Powered by **[WordPress](https://wordpress.org)**
 
 ---
